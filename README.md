@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Peter-pixel
 - 👀 I’m interested in Mobile App Development and Networking.
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter projects.
+- 🌱 I’m currently learning 3d web design and affective computing.
 - 📫 How to reach me petermusau7669@gmail.com
 
 <!---
