@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Peter Mwanzia
-- Web developer(PHP)
 - 👀 Networking(CCNA certified).
 - 🌱 Flutter developer.
 - 📫 How to reach me petermusau7669@gmail.com
