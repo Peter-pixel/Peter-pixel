@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peter Mwanzia
 - 👀 Networking(CCNA certified).
-- 🌱 Fullstack Developer.
+- 🌱 Full Stack Developer.
 - 📫 How to reach me petermusau7669@gmail.com
 
 <!---
