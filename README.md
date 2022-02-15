@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Peter Mwanzia
 - 👀 Full Stack Developer.
+- ✨UI/UX specialist.
 - 🌱 Microsoft Azure and C#.
 - 📫 How to reach me petermusau7669@gmail.com
 
