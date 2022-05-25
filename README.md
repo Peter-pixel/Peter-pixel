@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter Mwanzia
 - 👀 Full Stack Developer.
-- ✨UI/UX designer.
+- ✨Oracle DBA.
 - 🌱 Microsoft Azure and C#.
 - 📫 How to reach me petermusau7669@gmail.com
 
