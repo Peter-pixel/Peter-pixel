@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Peter Mwanzia
 - ✨ Software Engineer
 - ✨ SQL Developer.
-- 🌱 C#, PHP, Laravel.
+- 🌱 C#, Python, PHP, Laravel.
 - 📫 How to reach me petermusau7669@gmail.com
 
 <!---
