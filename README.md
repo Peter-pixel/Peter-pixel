@@ -2,7 +2,7 @@
 - ✨ Software Engineer
 - ✨ SQL Developer.
 - ✨ WordPress, Laravel
-- 🌱 C#, Python, PHP.
+- ✨ C#, Python, PHP.
 - 📫 How to reach me petermusau7669@gmail.com
 
 <!---
