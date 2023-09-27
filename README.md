@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Peter Mwanzia
 - ✨ Software Engineer
 - ✨ Laravel
-- ✨ SQL Developer.
-- 📫 How to reach me petermusau7669@gmail.com
+- ✨ Microsoft Power Apps
+- 📫 How to reach me mwanziapeter422gmail.com
 
 <!---
 Peter-pixel/Peter-pixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
