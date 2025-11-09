@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter Mwanzia
 - ✨ Software Engineer
-- ✨ Laravel
+- ✨ Data Engineer
 - ✨ Microsoft Power Apps
 - 📫 How to reach me mwanziapeter422gmail.com
 
