@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Peter Mwanzia
 - ✨ Software Engineer
 - ✨ Governance, Risk, Complicance (GRC) Specialist.
-- ✨ Microsoft Power Apps
+- ✨ Microsoft Power Platform Engineer
 - 📫 How to reach me mwanziapeter422gmail.com
 
 <!---
